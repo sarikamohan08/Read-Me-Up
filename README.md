@@ -7,4 +7,4 @@ We can issue the books to the students, maintain their records, check how many b
 
 Outline of the Project
 
-![This is an image]()
+![This is an image](outline.PNG)
