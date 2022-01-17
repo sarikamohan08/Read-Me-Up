@@ -11,11 +11,11 @@ Outline of the Project
 
 User interface 
 
-![Screenshot](student ui.PNG)
+![Screenshot](https://github.com/sarikamohan08/Read-Me-Up/blob/ecc4ac7fdd6f5dd519146c64cdab63526ea07d2c/student%20ui.PNG)
 
-![Screenshot](fac ui.PNG)
+![Screenshot](https://github.com/sarikamohan08/Read-Me-Up/blob/ecc4ac7fdd6f5dd519146c64cdab63526ea07d2c/fac%20ui.PNG)
 
-![Screenshot](student and faculty ui.PNG)
+![Screenshot](https://github.com/sarikamohan08/Read-Me-Up/blob/ecc4ac7fdd6f5dd519146c64cdab63526ea07d2c/student%20and%20faculty%20ui.PNG)
 
 
 ![Screenshot](https://github.com/sarikamohan08/Read-Me-Up/blob/e24de024ee817b33820ed9676224040704badd70/lib%20full.PNG)
