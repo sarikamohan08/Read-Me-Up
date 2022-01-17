@@ -7,7 +7,7 @@ We can issue the books to the students, maintain their records, check how many b
 
 Outline of the Project
 
-![This is an image](outline.PNG)
+![This is an image](outline.PNG) (UI\student ui.PNG) (UI\fac ui.PNG) (UI\student and faculty ui.PNG) (UI\lib full.PNG)
 
 User interface 
 
