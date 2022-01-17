@@ -11,11 +11,11 @@ Outline of the Project
 
 User interface 
 
-![Screenshot](UI\student ui.PNG)
+![Screenshot](student ui.PNG)
 
-![Screenshot](UI\fac ui.PNG)
+![Screenshot](fac ui.PNG)
 
-![Screenshot](UI\student and faculty ui.PNG)
+![Screenshot](student and faculty ui.PNG)
 
 
-![Screenshot](UI\lib full.PNG)
+![Screenshot](lib full.PNG)
