@@ -7,15 +7,15 @@ We can issue the books to the students, maintain their records, check how many b
 
 Outline of the Project
 
-![This is an image](outline.PNG) (UI\student ui.PNG) (UI\fac ui.PNG) (UI\student and faculty ui.PNG) (UI\lib full.PNG)
+![This is an image](outline.PNG) 
 
 User interface 
 
-![This is an image](UI\student ui.PNG)
+![Screenshot](UI\student ui.PNG)
 
-![This is an image](UI\fac ui.PNG)
+![Screenshot](UI\fac ui.PNG)
 
-![This is an image](UI\student and faculty ui.PNG)
+![Screenshot](UI\student and faculty ui.PNG)
 
 
-![This is an image](UI\lib full.PNG)
+![Screenshot](UI\lib full.PNG)
