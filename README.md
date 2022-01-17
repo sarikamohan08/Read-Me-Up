@@ -18,4 +18,4 @@ User interface
 ![Screenshot](student and faculty ui.PNG)
 
 
-![Screenshot](lib full.PNG)
+![Screenshot](https://github.com/sarikamohan08/Read-Me-Up/blob/e24de024ee817b33820ed9676224040704badd70/lib%20full.PNG)
